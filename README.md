@@ -12,6 +12,7 @@ Supports both:
 Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-mounted QNAP storage.
 
 
+
 ✨ **Features**
 
 ✔ Adds “Share via QNAP Link” to Nautilus right-click menu
