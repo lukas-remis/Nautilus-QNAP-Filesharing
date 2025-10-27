@@ -1,4 +1,4 @@
-**QNAP Share Link Nautilus Extension**
+## **QNAP Share Link Nautilus Extension**
 
 
 🔗 Generate QNAP File Station share links directly from Ubuntu Nautilus (GNOME Files) — right-click any file/folder stored on your NFS mounted QNAP NAS and instantly get a copy-ready sharing link.
@@ -12,7 +12,7 @@ Supports both:
 Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-mounted QNAP storage.
 
 
-✨ Features
+✨ **Features**
 
 ✔ Adds “Share via QNAP Link” to Nautilus right-click menu
 ✔ Secure authentication with GNOME Keyring
@@ -24,7 +24,7 @@ Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-
 ✔ Debug logging 
 
 
-📦 Requirements
+📦 **Requirements**
 
 Ubuntu 22.04+ (GNOME / Nautilus)
 
