@@ -25,6 +25,7 @@ Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-
 ✔ Multi-file selection support
 ✔ Debug logging 
 
+<br>
 
 ## 📦 **Requirements**
 
