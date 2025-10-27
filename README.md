@@ -52,8 +52,11 @@ If using cloud links → install & enable CloudLink + myQNAPcloud, publish File 
 Place the extension in Nautilus's extension directory:
 
 mkdir -p ~/.local/share/nautilus-python/extensions
+
 cp qnap_share_extension.py ~/.local/share/nautilus-python/extensions/
+
 rm -rf ~/.local/share/nautilus-python/extensions/__pycache__
+
 killall nautilus 2>/dev/null; setsid nautilus >/dev/null 2>&1 & disown
 
 
