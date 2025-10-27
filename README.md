@@ -14,7 +14,7 @@ Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-
 ![Demo](/docs/screenshot.png)
 <br>
 
-##✨ **Features**
+## ✨ **Features**
 
 ✔ Adds “Share via QNAP Link” to Nautilus right-click menu
 ✔ Secure authentication with GNOME Keyring
@@ -26,7 +26,7 @@ Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-
 ✔ Debug logging 
 
 
-##📦 **Requirements**
+## 📦 **Requirements**
 
 Ubuntu 22.04+ (GNOME / Nautilus)
 
@@ -55,7 +55,7 @@ Only QNAP user accounts without 2FA can be used at the moment.
 
 <br><br>
 
-##🚀 **Installation**
+## 🚀 **Installation**
 
 Place the extension in Nautilus's extension directory:
 
@@ -92,7 +92,7 @@ Then log in with your QNAP credentials — you can enable Keep me logged in to s
 
 <br><br>
 
-##🖱 **Using the Extension**
+## 🖱 **Using the Extension**
 
 Right-click any file or folder → Share via QNAP Link
 
