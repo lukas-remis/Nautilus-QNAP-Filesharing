@@ -11,7 +11,7 @@ Supports both:
 
 Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-mounted QNAP storage.
 
-
+<br>
 
 ✨ **Features**
 
@@ -52,9 +52,9 @@ If using cloud links → install & enable CloudLink + myQNAPcloud, publish File 
 
 Only QNAP user accounts without 2FA can be used at the moment.
 
+<br><br>
 
-
-🚀 Installation
+🚀 **Installation**
 
 Place the extension in Nautilus's extension directory:
 
@@ -69,8 +69,9 @@ killall nautilus 2>/dev/null; setsid nautilus >/dev/null 2>&1 & disown
 
 Restart Nautilus (it auto-reloads).
 
+<br><br>
 
-🧩 First-Time Setup
+🧩 **First-Time Setup**
 
 On first use, the extension prompts you to configure:
 
@@ -88,8 +89,9 @@ Default link type:
 
 Then log in with your QNAP credentials — you can enable Keep me logged in to store password securely in GNOME Keyring.
 
+<br><br>
 
-🖱 Using the Extension
+🖱 **Using the Extension**
 
 Right-click any file or folder → Share via QNAP Link
 
@@ -118,7 +120,7 @@ Enabled by default →
 
 ~/.config/qnap_share/debug.log
 
-
+<br><br>
 
 🧱 Tested With
 Component	Version
