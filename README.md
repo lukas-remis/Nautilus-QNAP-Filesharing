@@ -11,6 +11,7 @@ Supports both:
 
 Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-mounted QNAP storage.
 
+![Demo](/docs/screenshot.png)
 <br>
 
 ✨ **Features**
