@@ -98,11 +98,12 @@ Then log in with your QNAP credentials — you can enable Keep me logged in to s
 Right-click any file or folder → Share via QNAP Link
 
 You can customize sharing options:
-
-Expiration	Never / 3 / 7 / 30 days
-Link Password	Optional access code
-Allow Uploads	Available for folder shares
-Verify SSL	Toggle certificate check
+<ul>
+<li>Expiration	Never / 3 / 7 / 30 days</li>
+<li>Link Password	Optional access code</li>
+<li>Allow Uploads	Available for folder shares</li>
+<li>Verify SSL	Toggle certificate check</li>
+</ul>
 
 Generated link(s) are automatically copied to clipboard ✅
 
@@ -125,11 +126,12 @@ Enabled by default →
 <br><br>
 
 🧱 Tested With
-Component	Version
-Ubuntu	22.04 LTS
-GNOME	42+
-Nautilus	42+
-QNAP QTS	5.x
+<ul>
+<li>Ubuntu	22.04 LTS</li>
+<li>GNOME	42+</li>
+<li>Nautilus	42+</li>
+<li>QNAP QTS	5.x</li>
+</ul>
 
 NFS-mounted shares required.
 
