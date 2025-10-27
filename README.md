@@ -48,6 +48,7 @@ On QNAP NAS:
 Enable File Station
 
 If using cloud links → install & enable CloudLink + myQNAPcloud, publish File Station service
+
 Only QNAP user accounts without 2FA can be used at the moment.
 
 
