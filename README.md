@@ -21,8 +21,7 @@ Ideal for media teams, remote collaboration, VFX pipelines, or anyone using NFS-
 ✔ Cloud sharing via myQNAPcloud SmartShare
 ✔ Local sharing via NAS share.cgi (no cloud dependency)
 ✔ Multi-file selection support
-✔ Debug logging (optional)
-✔ No passwords written to logs ✅
+✔ Debug logging 
 
 
 📦 Requirements
